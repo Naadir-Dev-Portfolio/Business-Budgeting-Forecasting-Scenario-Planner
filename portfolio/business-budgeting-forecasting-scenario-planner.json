@@ -1,0 +1,18 @@
+﻿{
+    "section":  "excelvba",
+    "category":  "vba-macros",
+    "n":  5,
+    "title":  "Business Budgeting, Forecasting \u0026 Scenario Planner",
+    "desc":  "A polished Excel budgeting model with actuals vs budget, rolling forecasts, scenario toggles, assumptions, variance commentary, dashboard outputs, scenario saving, and budget pack generation.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/Business-Budgeting-Forecasting-Scenario-Planner/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/Business-Budgeting-Forecasting-Scenario-Planner/blob/main/README.md",
+    "tags":  [
+                 "Excel",
+                 "VBA",
+                 "Budgeting",
+                 "Forecasting",
+                 "Scenario Planning",
+                 "Finance"
+             ]
+}
+
